@@ -9,7 +9,7 @@
 ## 🇪🇸 Español
 
 ### ✨ Por qué este proyecto
-A diferencia de otros scripts síncronos convencionales, este crawler utiliza asyncio y aiohttp, lo que permite realizar múltiples peticiones HTTP de forma concurrente sin bloquear el hilo principal. Es una herramienta ideal para auditorías rápidas de SEO técnico y mantenimiento web.
+A diferencia de otros scripts síncronos convencionales, este crawler utiliza asyncio y aiohttp, lo que permite realizar múltiples peticiones HTTP de forma ambiguas concurrentemente sin bloquear el hilo principal. Es una herramienta ideal para auditorías rápidas de SEO técnico y mantenimiento web.
 
 ### 🚀 Características
 - Asincronía Real: Peticiones no bloqueantes para máxima velocidad de ejecución.
@@ -22,8 +22,8 @@ A diferencia de otros scripts síncronos convencionales, este crawler utiliza as
 ### 🛠️ Instalación
 
 1. Clona el repositorio:
-   git clone https://github.com/tuusuario/link-checker.git
-   cd link-checker
+   git clone https://github.com/JacoboLeon90/link-checker-crawler.git
+   cd link-checker-crawler
 
 2. Configura el entorno virtual e instala las dependencias:
    python -m venv venv
@@ -58,8 +58,8 @@ Unlike conventional synchronous scripts, this crawler leverages asyncio and aioh
 ### 🛠️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/tuusuario/link-checker.git
-   cd link-checker
+   git clone https://github.com/JacoboLeon90/link-checker-crawler.git
+   cd link-checker-crawler
 
 2. Set up the virtual environment and install dependencies:
    python -m venv venv
