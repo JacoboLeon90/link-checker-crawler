@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos temporales de ejecución de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Archivos generados por el script (Reportes)
+*.csv
+
+# Configuraciones de editores de código (Opcional pero recomendado)
+.vscode/
+.idea/
+.DS_Store
